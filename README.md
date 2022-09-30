@@ -35,6 +35,11 @@ npm install
 ```
 npm run serve
 ```
+# HomePage screenshot Example
+<img width="949" alt="insta" src="https://user-images.githubusercontent.com/56841703/193343021-607b46ca-6209-408f-8baa-d81f55a9455f.PNG">
+ 
+# Profile Page Example 
+<img width="954" alt="insta1" src="https://user-images.githubusercontent.com/56841703/193343248-25b5efd2-345f-417b-94c7-ad9e6a8b35e3.PNG">
 
 ### Compiles and minifies for production
 ```

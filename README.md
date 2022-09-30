@@ -3,7 +3,7 @@
 ![readmelogo](https://user-images.githubusercontent.com/56841703/178163332-ca95c296-a4dd-4c77-80bc-3e7699af3ecb.png)
 
 
-In this github repo, I implemented firebase authentication to login a user to the platform :smile:
+In this github repo, I implemented firebase authentication to login a user to the platform. Please sign up first and foremost with your email and password. Wait for a few moments, and then go ahead and use the same credentials you used for your email and password to sign in:smile:
 
 <img width="960" alt="signup" src="https://user-images.githubusercontent.com/56841703/193324123-a220b5b2-6f7a-4e82-b69a-6a923706dcb1.PNG">
 

@@ -24,6 +24,8 @@ months to come with PLP.
 
 # Vue-Instagram-Clone
 
+Please clone this repo to your personal computer in your preferred directory, CD into "vue-instagram-clone" and follow the project setup steps found below.
+
 ## Project setup
 ```
 npm install

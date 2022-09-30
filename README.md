@@ -20,3 +20,29 @@ The user would save the meme with a keyword, and the platform would implement an
 a meme they like a retrieve it at the touch of a button. Long term, my goal is to be able to implement Artificial Intellegence on this platform with libraries such as open cv,
 or even web-crawlers that can retrieve popular memes on the internet and just have one big, clean repository for memes. This is my long term goal, which I intend to do in the 
 months to come with PLP.
+
+
+# vue-instagram-clone
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).

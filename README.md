@@ -22,7 +22,7 @@ or even web-crawlers that can retrieve popular memes on the internet and just ha
 months to come with PLP.
 
 
-# vue-instagram-clone
+# Vue-Instagram-Clone
 
 ## Project setup
 ```

@@ -51,5 +51,9 @@ npm run build
 npm run lint
 ```
 
+### Netlify Link to Live Website
+https://eric-insta-clone.netlify.app/#/
+
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).

@@ -26,6 +26,11 @@ months to come with PLP.
 
 Please clone this repo to your personal computer in your preferred directory, CD into "vue-instagram-clone" and follow the project setup steps found below.
 
+
+### Netlify Link to Live Website
+https://eric-insta-clone.netlify.app/#/
+
+
 ## Project setup
 ```
 npm install
@@ -50,9 +55,6 @@ npm run build
 ```
 npm run lint
 ```
-
-### Netlify Link to Live Website
-https://eric-insta-clone.netlify.app/#/
 
 
 ### Customize configuration
